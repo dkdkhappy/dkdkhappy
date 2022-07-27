@@ -4,7 +4,6 @@
 <p>
   <span><img src="https://img.shields.io/badge/ORACLEDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
 </p>
-<br />
 
 <h3>📚 Frameworks, Platforms and Libraries</h3>
 <p>
@@ -15,12 +14,9 @@
 </p>
 
 <h3>🛠 IDEs</h3><br />
-<br />
 
-<h3>📋 Languages</h3><br />
-<br />   
+<h3>📋 Languages</h3><br />   
 
 🎈 etc</h3><br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkdkhappy)](https://github.com/dkdkhappy/github-readme-stats)
