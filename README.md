@@ -17,7 +17,7 @@
 <p>
   <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/INTELLIJIDEA-F53F82?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></span>
 </p>
 
 <h2>📋 Languages</h2> 
