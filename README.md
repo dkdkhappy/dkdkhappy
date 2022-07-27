@@ -13,10 +13,20 @@
   <span><img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></span>
 </p>
 
-<h3>🛠 IDEs</h3><br />
+<h3>🛠 IDEs</h3>
+<p>
+  <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=flat-square&logo=Eclipse&logoColor=white"/></span>
+</p>
 
-<h3>📋 Languages</h3><br />   
+<h3>📋 Languages</h3> 
+<p>
+  
+</p>
 
-🎈 etc</h3><br />
+🎈 etc</h3>
+<p>
+  
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkdkhappy)](https://github.com/dkdkhappy/github-readme-stats)
