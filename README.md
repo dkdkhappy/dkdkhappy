@@ -1,4 +1,4 @@
-<h2>⚙ My Skills</h2>
+<h1>⚙ My Skills</h1>
 
 <h2>💾 Databases</h2>
 <p>
