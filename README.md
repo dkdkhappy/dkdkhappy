@@ -31,6 +31,8 @@
 <h2>🎈 etc</h2>
 <p>
   <span><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/></span>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkdkhappy)](https://github.com/dkdkhappy/github-readme-stats)
