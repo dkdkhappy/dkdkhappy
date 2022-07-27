@@ -14,3 +14,5 @@
 
 🎈 etc</h3><br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkdkhappy)](https://github.com/dkdkhappy/github-readme-stats)
