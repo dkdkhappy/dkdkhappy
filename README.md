@@ -2,27 +2,27 @@
 
 <h2>💾 Databases</h2>
 <p>
-  <span><img src="https://img.shields.io/badge/ORACLEDB-F80000?style=flat&logo=Oracle&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/ORACLEDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></span>
 </p>
 
 <h2>📚 Frameworks, Platforms and Libraries</h2>
 <p>
   <span><img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat&logo=jQuery&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></span>
 </p>
 
 <h2>🛠 IDEs</h2>
 <p>
-  <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat&logo=Eclipse&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/INTELLIJIDEA-000000?style=flat&logo=Eclipse&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=flat&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/INTELLIJIDEA-000000?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
 </p>
 
 <h2>📋 Languages</h2> 
 <p>
-  <span><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/></span>
 </p>
 
 <h2>🎈 etc</h2>
