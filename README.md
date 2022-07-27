@@ -13,7 +13,7 @@
   <span><img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></span>
 </p>
 
-## 🛠 IDEs
+## 🧰 IDEs
 <p>
   <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/SPRING TOOL SUITE-20DD74?style=for-the-badge&logo=Spring&logoColor=white"/></span>
@@ -30,7 +30,7 @@
   <span><img src="https://img.shields.io/badge/MARKDOWN-EB7B5A?style=for-the-badge&logo=Markdown&logoColor=white"/></span>
 </p>
 
-## 🎈 etc
+## 🎸 etc
 <p>
   <span><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/></span>
