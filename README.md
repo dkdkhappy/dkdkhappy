@@ -22,7 +22,7 @@
 
 <h2>📋 Languages</h2> 
 <p>
-  <span><img src="https://img.shields.io/badge/JAVA-22FFFF?style=flat-square&logo=JAVA&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/JAVA-2200FF?style=flat-square&logo=JAVA&logoColor=white"/></span>
 </p>
 
 <h2>🎈 etc</h2>
