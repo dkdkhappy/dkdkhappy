@@ -1,4 +1,4 @@
-<h1>⚙ My Skills</h1>
+<h1 style="font-size: 30px;">⚙ My Skills</h1>
 
 <h2>💾 Databases</h2>
 <p>
