@@ -8,7 +8,6 @@
 <h2>📚 Frameworks, Platforms and Libraries</h2>
 <p>
   <span><img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></span>
@@ -17,7 +16,7 @@
 <h2>🛠 IDEs</h2>
 <p>
   <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/SPRING TOOL SUITE-F53F82?style=for-the-badge&logo=Spring&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/SPRING TOOL SUITE-20DD74?style=for-the-badge&logo=Spring&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/INTELLIJIDEA-F53F82?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></span>
 </p>
