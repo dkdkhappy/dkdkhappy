@@ -1,7 +1,7 @@
-<h1>⚙ My Skills</h1>
+<h2>⚙ My Skills</h2>
 
 <h3>💾 Databases</h3><br />
-
+<img src="https://img.shields.io/badge/ORACLEDB-F80000?style=flat-square&logo=Oracle&logoColor=white" style="padding: 4px;"/>
 <br />
 
 <h3>📚 Frameworks, Platforms and Libraries</h3><br />
