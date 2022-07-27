@@ -16,6 +16,7 @@
 <h3>🛠 IDEs</h3>
 <p>
   <span><img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/INTELLIJIDEA-000000?style=flat-square&logo=Eclipse&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=flat-square&logo=Eclipse&logoColor=white"/></span>
 </p>
 
