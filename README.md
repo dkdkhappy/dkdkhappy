@@ -1,4 +1,4 @@
-# ⚙ My Skills
+# 🤹🏻 My Skills
 
 ## 💾 Databases
 <p>
@@ -21,7 +21,7 @@
   <span><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></span>
 </p>
 
-## 🗣️ Languages
+## ⚙ Languages
 <p>
   <span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></span>
